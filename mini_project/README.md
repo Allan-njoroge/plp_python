@@ -4,7 +4,7 @@ In this project, you are tasked to create a program that automates searching for
 
 
 
-* <b>Dictionary Project is provided <a href="https://github.com/mutemip/dictionary-data">here:</a></b> 
+* <h3><b>Dictionary Project is provided <a href="https://github.com/mutemip/dictionary-data">here:</a></b></h3>
 
 
 
