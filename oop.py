@@ -7,5 +7,5 @@ class Person:
     def introduce(self):
         print(f"My name is {self.name}, I am a {self.age} year old {self.gender}")
 
-first_person = Person("Kamau", 20, "female")
+first_person = Person("Allan", 19, "male")
 first_person.introduce()
